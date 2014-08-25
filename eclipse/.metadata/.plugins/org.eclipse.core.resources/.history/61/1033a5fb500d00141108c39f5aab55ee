@@ -1,0 +1,22 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "unlimitedadv",
+    "name": "Unlimited Adventure",
+    "description": "The mod who enhances the survival gameplay and makes more interesting minecraft.",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ 
+    "HugoRam"
+    ],
+    "credits": "Thaumcraft,Botania y Tinkers Construct Inspirations",
+    "logoFile": "",
+    "screenshots": [  
+    ],
+    "parent": "mod_baubles",
+    "dependencies": [
+    ]
+  }]
+}
